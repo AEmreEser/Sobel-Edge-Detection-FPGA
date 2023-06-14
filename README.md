@@ -9,4 +9,4 @@ Input image generated through IP generation.
 
 
 
-### Detailed info regarding the Sobel edge detection algorithm could be found here: https://homepages.inf.ed.ac.uk/rbf/HIPR2/sobel.htm
+##### Detailed info regarding the Sobel edge detection algorithm could be found here: https://homepages.inf.ed.ac.uk/rbf/HIPR2/sobel.htm
