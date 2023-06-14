@@ -4,5 +4,5 @@ The module displays the B&W input image and hte sobel edge detection results sid
 Input image generated through IP generation. 
 
 
-##Results:
+## Results:
 ![results](https://github.com/AEmreEser/Sobel-Edge-Detection-FPGA/blob/main/sobel_results.jpg)
