@@ -8,5 +8,8 @@ Input image generated through IP generation.
 ![results](https://github.com/AEmreEser/Sobel-Edge-Detection-FPGA/blob/main/sobel_results.jpg)
 
 
+### Important:
+files lena_input.ngc and lena_input.mif must be copied into the project folder (xilinx ISE) for the precompiled modules to be used. 
+
 
 ##### Detailed info regarding the Sobel edge detection algorithm could be found here: https://homepages.inf.ed.ac.uk/rbf/HIPR2/sobel.htm
