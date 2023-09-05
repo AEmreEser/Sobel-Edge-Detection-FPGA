@@ -3,6 +3,10 @@ Sobel Edge Detection on Spartan 3E board usign Xilinx ISE. The input image is ha
 The module displays the B&W input image and hte sobel edge detection results side by side on button presses.
 Input image generated through IP generation. 
 
+-	Control – Datapath organization
+-	Area: 130 std cells, avg 14.45 cell pins (SRAM and VGA controller not included)
+-	Timing: 1 clock cycle per pixel
+
 
 ## Results:
 ![results](https://github.com/AEmreEser/Sobel-Edge-Detection-FPGA/blob/main/sobel_results.jpg)
